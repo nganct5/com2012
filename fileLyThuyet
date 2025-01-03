@@ -1,6 +1,6 @@
 ﻿/* T-SQL - Structured Query Language: Ngôn ngữ truy vấn có cấu trúc SQL cho phép Tạo CSDL, Thao tác trên dữ liệu
 		(Lưu trữ dữ liệu, Sửa dữ liệu, Xóa dữ liệu) Đa số các RDBMS hiện nay sử dụng SQL (MS SQL Server – T- SQL, 
-		Microsoft Access, Oracle – PL/SQL, DB2, MySQL…) [DungNA29]
+		Microsoft Access, Oracle – PL/SQL, DB2, MySQL…) 
 Có thể chia thành 4 nhóm lệnh SQL:
 	+ Nhóm truy vấn dữ liệu (DQL): gồm các lệnh truy vấn lựa chọn
 	(Select) để lấy thông tin nhưng không làm thay đổi dữ liệu trong các bảng
