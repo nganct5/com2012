@@ -7,7 +7,7 @@ Có thể chia thành 4 nhóm lệnh SQL:
 	+ Nhóm định nghĩa dữ liệu (DDL): Gồm các lệnh tạo, thay đổi các bảng dữ liệu(Create, Drop, Alter, …)
 	+ Nhóm thao tác dữ liệu (DML): Gồm các lệnh làm thay đổi dữ liệu (Insert, Delete, Update,…) lưu trong các bảng
 	+ Nhóm điều khiển dữ liệu (DCL): Gồm các lệnh quản lý quyền truy nhập vào dữ liệu và các bảng (Grant, Revoke, …)
-SQL KHÔNG PHÂN BIỆT CHỮA HOA CHỮ THƯỜNG. [DungNA29]
+SQL KHÔNG PHÂN BIỆT CHỮA HOA CHỮ THƯỜNG. 
 NGUYÊN TẮC KHI ĐẶT TÊN
 	+ Kí tự đầu tiên của một định danh phải là một kí tự chữ cái theo chuẩn Unicode 2.0, hoặc dấu (_),
 	hoặc dấu @ (tên biến), hoặc # (bảng tạm).
